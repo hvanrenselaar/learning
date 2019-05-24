@@ -1,4 +1,8 @@
 Cheat sheet: https://gist.github.com/cortesben/016cd401faae5a8dae59
+hg command prompt - see ~/.bash_profile on webdev08
+hg aliases - see ~/hgrc
+
+hg shortlog is a cool alias
 
 hg update -C	# resets your head and removes commits not pushed like git reset --hard
 Always create a new branch when working on something new
