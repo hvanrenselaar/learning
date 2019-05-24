@@ -1,0 +1,19 @@
+Cheat sheet: https://gist.github.com/cortesben/016cd401faae5a8dae59
+
+hg update -C	# resets your head and removes commits not pushed like git reset --hard
+Always create a new branch when working on something new
+hg branch new-branch
+hg checkout branch
+hg branches # list branches
+hg log -l 5	#last 5 changelog statuses
+hg diff
+if you create a new file, make sure hg knows about it by: hg add new_file
+
+.hgignore should contain the following lines:
+^HTML/ThorCat$
+^HTML/DXFViewer$
+^\.metadata$
+^HTML/chinaLanding$
+^HTML/thumbnail$
+
+Copy this file (.hgignore) from Documents\hg stuff (on webdev08 dev server)
