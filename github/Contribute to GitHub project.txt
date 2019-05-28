@@ -1,0 +1,21 @@
+As I started to look at contributing to Github projects I came across the following articles.
+
+Contribute to GitHub
+The beginner's guide to contributing to a GitHub project
+https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
+
+Before you even run the code: https://lornajane.net/posts/2015/code-reviews-before-you-even-run-the-code
+
+How to write good commit messages
+https://chris.beams.io/posts/git-commit/
+
+A couple of suggestions before you start this rewarding journey:
+(1) Figure out which technologies you want to use.
+(2) Find a project you're interested in on github.com
+Use the Explore button in GitHub
+(3) Fork the project
+(4) Run this project locally
+(5) Pick a very small issue you believe you can fix.
+(6) Fix it
+(7) Generate a Pull request
+(8) Pick another small issue. Repeat
